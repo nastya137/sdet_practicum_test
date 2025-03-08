@@ -14,4 +14,4 @@
 4. В консоли перейти в директорию проекта и выполнить:
    mvn compile
 5. Также выполнить в консоли
-   mvn exec:java -Dexec.mainClass="org.example.TestForm"
+   mvn test
